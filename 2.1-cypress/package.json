@@ -1,0 +1,15 @@
+{
+  "name": "taller3",
+  "version": "1.0.0",
+  "description": "taller 3 cypress",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "node_modules/.bin/cypress run"
+  },
+  "author": "Laura Chacon",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^4.0.2"
+  }
+}
