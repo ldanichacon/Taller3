@@ -8,3 +8,5 @@
 # dependencies
 /node_modules
 
+
+2.3-puppeteer/__tests__/node_modules/
